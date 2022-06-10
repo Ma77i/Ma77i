@@ -5,9 +5,9 @@ I'm Mattias, Fullstack developer from Paysandú, Uruguay, currently living in  M
 
 ## Things I code with
 
-# HTML
-# CSS
-# Javascript
-# React
-# Node
-# MongoDB
+### HTML
+### CSS
+### Javascript
+### React
+### Node
+### MongoDB
